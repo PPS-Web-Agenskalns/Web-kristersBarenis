@@ -1,0 +1,27 @@
+* {
+    border: 1px solid cyan !important; color:royalblue
+}
+
+.grid{
+    width: 100%;
+}
+
+.row{
+    width: 100%;
+}
+
+.col-10{
+    width: 10%; 
+}
+
+.col-4{
+    width: 25%;
+}
+
+.col-2{
+    width: 50%;
+}
+
+.col-75{
+    width: 75%
+}
